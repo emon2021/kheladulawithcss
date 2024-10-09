@@ -67,8 +67,7 @@ h1 {
   .ing-lists {
     color: #444;
     font-size: 18px;
-  }
-  .ingredients {
+    line-height: 1.7 !important;
   }
   .instructions {
     margin-top: 3rem;
@@ -110,7 +109,6 @@ h1 {
   }
   .table tr td, .table tr th {
     padding: 10px 0px;
-    border-bottom: ;
     border: none;
     border-bottom: 1px solid #8c001936;
   }
